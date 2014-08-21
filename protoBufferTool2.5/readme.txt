@@ -1,0 +1,1 @@
+This tool is just fit for protoc.exe the version of which is 2.5.0
